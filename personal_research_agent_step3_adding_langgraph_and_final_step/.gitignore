@@ -1,0 +1,8 @@
+.env
+myenv/
+.venv/
+__pycache__/
+*.py[cod]
+checkpoints.sqlite
+checkpoints.sqlite-shm
+checkpoints.sqlite-wal
